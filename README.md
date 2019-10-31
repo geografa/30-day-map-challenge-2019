@@ -1,2 +1,4 @@
-# 30-day-map-challenge-2019
-30 Day Map Challenge 2019
+# Mapbox maps in the wild
+A listing of some inspirational maps.
+
+

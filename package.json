@@ -1,0 +1,20 @@
+{
+  "name": "geografa_maps",
+  "version": "1.0.1",
+  "description": "waterfall flow",
+  "main": "responsive_waterfall.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leozdgao/responsive_waterfall.git"
+  },
+  "author": "leozdgao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leozdgao/responsive_waterfall/issues"
+  },
+  "homepage": "https://github.com/leozdgao/responsive_waterfall#readme",
+  "dependencies": {
+    "responsive_waterfall": "^1.0.1"
+  }
+}
